@@ -1,4 +1,4 @@
-Month/year,Timestamp,Location,PM2.5,PM10,NO2,NH3,SO2,CO,O3,AQI(Monthly),Average AQI (monthly)
+Month/year,Timestamp,Location,PM2.5,PM10,NO2,NH3,SO2,CO,O3,AQI(Monthly)
 Jan/20,02/01/2020,Kolkata - Rabindra Bharati University,125.94,316.62,80.23,44.79,18.62,1.19,39.24,,
 ,03/01/2020,Kolkata - Rabindra Bharati University,54.8,119,44.32,54.5,16.04,0.38,23,192.00 ,
 ,04/01/2020,Kolkata - Rabindra Bharati University,79.89,169.47,52.32,56.17,17.72,1.17,15.41,86.00 ,
